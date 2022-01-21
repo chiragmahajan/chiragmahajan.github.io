@@ -4,11 +4,12 @@
 ## Skills
 
 <p align='left'>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" alt="html" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/CSS3_logo_and_wordmark.svg/1200px-CSS3_logo_and_wordmark.svg.png' alt="css" width="40" height="40">
-  <img src='https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png' height='30' width='auto' alt="js">
-   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1280px-React-icon.svg.png" alt="react" width="auto" height="40"/>
-   <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Java_20131025_1864663017.jpg/1280px-Java_20131025_1864663017.jpg' alt="Java" width="40" height="40">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Go_Logo_Blue.svg/1280px-Go_Logo_Blue.svg.png" alt="Go" width="40" height="40">
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Apache_kafka_wordtype.svg/1280px-Apache_kafka_wordtype.svg.png' height='30' width='auto' alt="Kafka">
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/Elasticsearch_logo.svg/1280px-Elasticsearch_logo.svg.png" alt="Elastic Search" width="auto" height="40"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Database-mysql.svg/1448px-Database-mysql.svg.png" alt="MySQL" width="40" height="40"/>
+  <img src='https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Redis_Logo.svg/1280px-Redis_Logo.svg.png' height='30' width='auto' alt="Redis">
 </p>
 
 ---
