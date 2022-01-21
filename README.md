@@ -16,7 +16,7 @@
 ## Experience
 
 ### **Software Development Engineer, Backend**
-### Grab ( 02/2021 - Present )
+### Grab (02/2021 - Present)
 
 **MY Basic Name Screening** - Designed, Implemented and Led the Backend changes in order to minimise risk of ML/TF/financial crime via the Grab platform in Malaysia. Regulatory obligation require us to screen customers for these risks. This is done by screening names against global watchlists.
 
@@ -27,7 +27,7 @@
 **Operational Excellence** - Continuously contributing in the improvement and stability of the system and resolving the Open Production Issues.
 
 ### **Software Development Engineer, Backend**
-### Paytm ( 09/2019 - 01/2021 )
+### Paytm (09/2019 - 01/2021)
 
 **Merchant Subscription** - Led the Backend Development of subscription of merchant in multiple plans divided into short- term and long-term plans.
 
@@ -36,7 +36,7 @@
 **Quality and performance** - 1) improved quality and result ordering of search. 2) caching for performance. 3) improved the map view to show merchants on map on the basis of geoHash. 4) adding data to the merchant docs for reducing extra calls and ingesting data for existing docs without any downtime.
 
 ### **Intern, Technology**
-### NAGARRO PVT, LTD ( 01/2019 - 08/2019 )
+### NAGARRO PVT, LTD (01/2019 - 08/2019)
 
 **NAGP Management Application** - Java based Admin and Employee Interaction project in which admin adds task and employee has to get required score to complete the level and move to other level. After completing the task admin can pass/fail the task.
 
@@ -47,7 +47,7 @@
 ## Education
 
 ### **GURU NANAK DEV UNIVERSITY**
-### B.Tech Computer Science And Engineering ( 08/2015- 06/2019 )
+### B.Tech Computer Science And Engineering (08/2015- 06/2019)
 CGPA 8.98
 
 ---
