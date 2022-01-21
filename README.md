@@ -57,5 +57,5 @@ CGPA 8.98
 - Ardent Player of Cricket
 - Takes Interest in Reading Current Affairs
 - Loves Watching Lawn Tennis
-- Enjoy playing Table Tennis
-- Enjoy solving scholastic Aptitude Problems and Sudoku
+- Enjoys playing Table Tennis
+- Enjoys solving scholastic Aptitude Problems and Sudoku
